@@ -3,9 +3,8 @@
 ###### Украина
 ###### Киев
 ---
-###### [GitHub Pages] (https://github.com/VNavrockij).
-###### [Instagram Pages] (https://www.instagram.com/v.nvrck).
-###### [FaceBook Pages] (https://www.facebook.com/navrotskyivitalii).
-###### [Instagram Pages] (https://github.com/VNavrockij).
-###### [e-mail] (vitalik.nav@gmail.com).
+###### [GitHub Pages]: https://github.com/VNavrockij
+###### [Instagram Pages]: https://www.instagram.com/v.nvrck
+###### [FaceBook Pages]: https://www.facebook.com/navrotskyivitalii
+###### [e-mail]: vitalik.nav@gmail.com
 ---
