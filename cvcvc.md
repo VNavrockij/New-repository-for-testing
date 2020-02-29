@@ -18,7 +18,7 @@
 **Education**
 
 - Kyiv Slavonic University, Customs (September 2008 - not finished)
-- He thoroughly started his career in IT since January 2020 and devote at least 6 hours a day.
+- I thoroughly started his career in IT since January 2020 and devote at least 6 hours a day.
 
 *Studying:*
  * iOS Development Course Beginner by Alex Skutarenko
@@ -28,10 +28,10 @@
 ---
 **Work experience**
 
-- From 2008-2011 he worked as a bartender on national television.
+- From 2008-2011, worked as a bartender on national television.
 - From 2011-2018, co-owner of the family coffee business.
-- Since 2018, he retired and devoted time to his family.
-- From 2020 start IT career.
+- Since 2018, retired and devoted time to his family.
+- From 2020, start IT career.
 ---
 **Personal qualities**
 
