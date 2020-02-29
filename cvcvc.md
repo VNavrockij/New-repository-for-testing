@@ -44,7 +44,7 @@
 **Special skills**
 
 *Language skills:*
- * English - Elementary A2
+ * English - Elementary A2 (in the process of studying)
  * Russian - Native
  * Ukraine - Fluent
  
